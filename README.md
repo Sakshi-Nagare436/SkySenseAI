@@ -77,11 +77,14 @@ This project uses the OpenWeather API to fetch:
 
 This project is developed for learning and portfolio purposes. 
 
-<img width="689" height="367" alt="Screenshot 2026-07-13 151848" src="https://github.com/user-attachments/assets/a49b39e5-90e4-4df7-8991-0da01a9e8ff0" />
-<img width="701" height="487" alt="Screenshot 2026-07-13 151828" src="https://github.com/user-attachments/assets/d23adb1e-ffeb-44a8-87ea-9ea205a9caba" />
-<img width="677" height="488" alt="Screenshot 2026-07-13 151807" src="https://github.com/user-attachments/assets/d54fc897-35ef-4782-be9f-d5b5eec50a56" />
-<img width="901" height="496" alt="Screenshot 2026-07-13 151717" src="https://github.com/user-attachments/assets/9f79c324-6e37-4b18-a978-e942c4c5c47f" />
-<img width="926" height="493" alt="Screenshot 2026-07-13 151641" src="https://github.com/user-attachments/assets/67e086a8-f65f-4b69-be63-1e84be32220a" />
+<img width="926" height="493" alt="Screenshot 2026-07-13 151641" src="https://github.com/user-attachments/assets/53fecf49-0be5-4d22-8675-997f6938cdb6" />
+<img width="901" height="496" alt="Screenshot 2026-07-13 151717" src="https://github.com/user-attachments/assets/cf5770d6-61c5-409d-90ec-e454e213df5e" />
+<img width="677" height="488" alt="Screenshot 2026-07-13 151807" src="https://github.com/user-attachments/assets/15a80c19-26c7-44fe-b900-3765b4c1d1e7" />
+<img width="701" height="487" alt="Screenshot 2026-07-13 151828" src="https://github.com/user-attachments/assets/b24d793f-a465-47d5-9fac-48e8cf8b8f89" />
+<img width="689" height="367" alt="Screenshot 2026-07-13 151848" src="https://github.com/user-attachments/assets/aa4a0584-2b37-41fc-8ef8-dfc5f88fb26a" />
+
+
+
 
 
 
